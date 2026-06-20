@@ -7,5 +7,8 @@ Scroll To Element,
 Switch to Active Window, 
 Switch to Alert, 
 Drag and Drop, 
-Radio Buttons 
-and Date Picker
+Radio Buttons, 
+Date Picker, 
+File Upload, 
+Form 
+and Drop Down
